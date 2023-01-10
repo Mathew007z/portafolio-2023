@@ -238,13 +238,6 @@ body{
     margin-left: .5em;
 }
 
-.box-flex{
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-}
 
 
 /* nAvbar */
@@ -412,21 +405,21 @@ ul.show{
 .box-proyect-one:hover{
     box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.4);
     transform: translateY(-3%);
-    background-color: rgb(17, 48, 47);
+ 
 }
 
 
 .title-box{
     color: #fff;
     margin-bottom: .7em;
-    font-family:var(--font-headers);
+    font-family:var(--font-form);
     font-size: 22px;
 }
 
 .link-proyect{
     text-decoration: none;
     color: #fff;
-    font-family:var(--font-headers);
+    font-family:var(--font-form);
     font-size: 21px;
     margin-top: 1em;
 
@@ -677,6 +670,9 @@ padding: .3em;
     font-size: 50px;
 }
 
+.skills{
+    height: 400px;
+}
 
 }
 
