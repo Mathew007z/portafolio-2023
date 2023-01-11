@@ -364,7 +364,8 @@ ul.show{
     justify-content: center;
     flex-direction: column;
     flex-wrap: wrap;
-    margin-top: 12em;
+    margin-top: 10em;
+    margin-bottom: 7em;
 }
 .proyect-font{
     color: #fff;
@@ -375,7 +376,7 @@ ul.show{
 
 
 .proyects{
-    height: 660px;
+    height: 750px;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
@@ -451,6 +452,10 @@ ul.show{
     width: 40px;
 }
     
+.svg-img--modify2{
+    width: 50px;
+}
+
 .proyect-font--2{
     margin-bottom: 1.5em;
 }
@@ -675,7 +680,7 @@ footer{
 
    
     .proyects{
-        height: 2000px;
+        height: 2400px;
        
     }
     .box-proyect-one{
